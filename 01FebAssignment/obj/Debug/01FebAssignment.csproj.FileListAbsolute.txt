@@ -1,0 +1,7 @@
+D:\DotNet\Assignments\01FebAssignment\01FebAssignment\bin\Debug\01FebAssignment.exe.config
+D:\DotNet\Assignments\01FebAssignment\01FebAssignment\bin\Debug\01FebAssignment.exe
+D:\DotNet\Assignments\01FebAssignment\01FebAssignment\bin\Debug\01FebAssignment.pdb
+D:\DotNet\Assignments\01FebAssignment\01FebAssignment\obj\Debug\01FebAssignment.csprojAssemblyReference.cache
+D:\DotNet\Assignments\01FebAssignment\01FebAssignment\obj\Debug\01FebAssignment.csproj.CoreCompileInputs.cache
+D:\DotNet\Assignments\01FebAssignment\01FebAssignment\obj\Debug\01FebAssignment.exe
+D:\DotNet\Assignments\01FebAssignment\01FebAssignment\obj\Debug\01FebAssignment.pdb
